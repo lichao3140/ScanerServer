@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">ScanerServer</string>
+    <string name="scanner">Scanner settings</string>
+    <string name="scanner_settings">Scanner settings</string>
+    <string name="scan_input">Background input Mode</string>	
+    <string name="scan_input_settings">Scan input settings</string>
+    <string name="scan_voice">Voice</string>
+    <string name="scan_key_settings">Scan Key Settingsr</string>   
+    <string name="scan_key_middle">Mid</string>
+    <!--<string name="scan_key_f2">Scan key/Scan F2 key</string>-->
+    <string name="scan_key_left">Left side key</string>
+    <string name="scan_key_right">Right side key</string>
+    <string name="scan_key_fn">Option key</string>
+    <string name="open"> open</string>
+    <string name="close"> close</string>
+    <string name="add_enter"> add line feed</string>
+</resources>
