@@ -38,7 +38,6 @@ public class MainActivity extends Activity {
 			public void onClick(View v) {
 				 InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
 				 List<InputMethodInfo> listInfo = imm.getInputMethodList();
-				 //
 				 InputMethodSubtype subtype =  imm.getCurrentInputMethodSubtype();
 //				 subtype.getLocale();
 //				 Log.e("subtype", "Locale ---- " + subtype.getLocale());
